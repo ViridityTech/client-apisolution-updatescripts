@@ -1,0 +1,394 @@
+{
+  "account_id": {
+    "sample": 12418,
+    "type": "int"
+  },
+  "active_at": {
+    "sample": "2017-04-01T00:00:00.000Z",
+    "type": "str"
+  },
+  "activity.activity_result_id": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "activity.activity_type_id": {
+    "sample": 53167,
+    "type": "int"
+  },
+  "activity.calendar_event_end_time": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "activity.calendar_event_start_time": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "activity.community_id": {
+    "sample": 34082,
+    "type": "int"
+  },
+  "activity.completed_at": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "activity.completed_successfully": {
+    "sample": true,
+    "type": "bool"
+  },
+  "activity.created_at": {
+    "sample": "2025-01-22T00:05:34.760Z",
+    "type": "str"
+  },
+  "activity.created_by_id": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "activity.direction": {
+    "sample": "not_applicable",
+    "type": "str"
+  },
+  "activity.discarded_at": {
+    "sample": "2025-01-22T18:27:35.590Z",
+    "type": "str"
+  },
+  "activity.id": {
+    "sample": 376103145,
+    "type": "int"
+  },
+  "activity.notes": {
+    "sample": "",
+    "type": "str"
+  },
+  "activity.pinned": {
+    "sample": false,
+    "type": "bool"
+  },
+  "activity.record_id": {
+    "sample": 22505628,
+    "type": "int"
+  },
+  "activity.record_type": {
+    "sample": "Prospect",
+    "type": "str"
+  },
+  "activity.sales_counselor_id": {
+    "sample": 7,
+    "type": "int"
+  },
+  "activity.scheduled_at": {
+    "sample": "2018-11-16T12:00:00.000Z",
+    "type": "str"
+  },
+  "activity.stage_id": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "activity.time_zone": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "activity.updated_at": {
+    "sample": "2025-01-22T18:27:35.592Z",
+    "type": "str"
+  },
+  "close_reason_details": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "close_reason_id": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "community_id": {
+    "sample": 34082,
+    "type": "int"
+  },
+  "created_at": {
+    "sample": "2017-04-01T00:00:00.000Z",
+    "type": "str"
+  },
+  "discarded_at": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "discarded_by_id": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "expected_move_timing_id": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "id": {
+    "sample": 22505628,
+    "type": "int"
+  },
+  "influencers_attributes": {
+    "sample": [],
+    "type": "list"
+  },
+  "influencers_attributes[0].id": {
+    "sample": 17655374,
+    "type": "int"
+  },
+  "influencers_attributes[0].notes": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "influencers_attributes[0].person_attributes.address_attributes.city": {
+    "sample": "Redding",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.address_attributes.line1": {
+    "sample": "360 Bouniful Path",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.address_attributes.line2": {
+    "sample": "",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.address_attributes.state": {
+    "sample": "California",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.address_attributes.zip": {
+    "sample": "96003",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.birthdate": {
+    "sample": "",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.cell_phone": {
+    "sample": "+19255133084",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.do_not_call": {
+    "sample": false,
+    "type": "bool"
+  },
+  "influencers_attributes[0].person_attributes.do_not_email": {
+    "sample": false,
+    "type": "bool"
+  },
+  "influencers_attributes[0].person_attributes.do_not_mail": {
+    "sample": false,
+    "type": "bool"
+  },
+  "influencers_attributes[0].person_attributes.do_not_text": {
+    "sample": false,
+    "type": "bool"
+  },
+  "influencers_attributes[0].person_attributes.email": {
+    "sample": "",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.fax_number": {
+    "sample": "",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.first_name": {
+    "sample": "Pearl",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.gender": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "influencers_attributes[0].person_attributes.home_phone": {
+    "sample": "",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.last_name": {
+    "sample": "Lopez",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.middle_name": {
+    "sample": "",
+    "type": "str"
+  },
+  "influencers_attributes[0].person_attributes.provided_age": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "influencers_attributes[0].person_attributes.work_phone": {
+    "sample": "",
+    "type": "str"
+  },
+  "influencers_attributes[0].relationship_id": {
+    "sample": 23102,
+    "type": "int"
+  },
+  "initial_contact_at": {
+    "sample": "2018-11-06T00:10:00.000Z",
+    "type": "str"
+  },
+  "last_contact_at": {
+    "sample": "2018-11-06T23:05:00.000Z",
+    "type": "str"
+  },
+  "lead_source_id": {
+    "sample": 104597,
+    "type": "int"
+  },
+  "merged_into_prospect_id": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "metadata": {
+    "sample": {},
+    "type": "dict"
+  },
+  "next_activity_scheduled_at": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "original_sales_counselor_id": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "prospect_field_values_attributes": {
+    "sample": [],
+    "type": "list"
+  },
+  "referrer_id": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "residents_attributes[0].care_type_id": {
+    "sample": 22709,
+    "type": "int"
+  },
+  "residents_attributes[0].id": {
+    "sample": 20960137,
+    "type": "int"
+  },
+  "residents_attributes[0].marital_status": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "residents_attributes[0].person_attributes.address_attributes.city": {
+    "sample": "",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.address_attributes.line1": {
+    "sample": "",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.address_attributes.line2": {
+    "sample": "",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.address_attributes.state": {
+    "sample": "",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.address_attributes.zip": {
+    "sample": "",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.birthdate": {
+    "sample": "",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.cell_phone": {
+    "sample": "",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.do_not_call": {
+    "sample": false,
+    "type": "bool"
+  },
+  "residents_attributes[0].person_attributes.do_not_email": {
+    "sample": false,
+    "type": "bool"
+  },
+  "residents_attributes[0].person_attributes.do_not_mail": {
+    "sample": false,
+    "type": "bool"
+  },
+  "residents_attributes[0].person_attributes.do_not_text": {
+    "sample": false,
+    "type": "bool"
+  },
+  "residents_attributes[0].person_attributes.email": {
+    "sample": "",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.fax_number": {
+    "sample": "",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.first_name": {
+    "sample": "Jess",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.gender": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "residents_attributes[0].person_attributes.home_phone": {
+    "sample": "",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.last_name": {
+    "sample": "Lopez",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.middle_name": {
+    "sample": "",
+    "type": "str"
+  },
+  "residents_attributes[0].person_attributes.provided_age": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "residents_attributes[0].person_attributes.work_phone": {
+    "sample": "",
+    "type": "str"
+  },
+  "residents_attributes[0].prospect_id": {
+    "sample": 22505628,
+    "type": "int"
+  },
+  "residents_attributes[0].veteran_status": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "sales_counselor_id": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "score_id": {
+    "sample": 19639,
+    "type": "int"
+  },
+  "secondary_lead_source_id": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "stage_id": {
+    "sample": 16511,
+    "type": "int"
+  },
+  "status": {
+    "sample": "moved_in",
+    "type": "str"
+  },
+  "status_changed_at": {
+    "sample": null,
+    "type": "NoneType"
+  },
+  "trait_ids": {
+    "sample": [],
+    "type": "list"
+  },
+  "trait_ids[items]": {
+    "sample": 47301,
+    "type": "int"
+  },
+  "updated_at": {
+    "sample": "2025-01-22T18:27:35.660Z",
+    "type": "str"
+  }
+}
